@@ -49,7 +49,6 @@ public class Program {
                 System.out.println("Updated account data: " + account);
             } else {
                 turnoff = true;
-                System.out.println("Updated account data: " + account);
                 System.out.println("Operation finished.");
             }
         }
